@@ -1,0 +1,131 @@
+,brand,model,processor_brand,processor_name,os,screen_size,ram(GB),card,ssd,hdd,hard_driver(GB),made_in,warranty,condition,price
+0,HP,Pavilion,Intel,Core i5,Windows,13.6,8.0,Onboard,yes,,256.0,Việt Nam,3 tháng,Đã sử dụng ,7900000.0
+1,HP,Elitebook,Intel,Core i5,Windows,13.0,8.0,Onboard,yes,,256.0,Mỹ,3 tháng,Đã sử dụng ,4900000.0
+2,Dell,Latitude,Intel,Core i5,Windows,13.0,8.0,NVIDIA,,,256.0,,1 tháng,Đã sử dụng ,5300000.0
+3,Apple,MacBook Air M2,Khác,,Windows,13.0,16.0,Onboard,yes,,256.0,Việt Nam,4-6 tháng,Đã sử dụng ,27500000.0
+4,Dell,Latitude,Intel,Core i7,Windows,12.5,8.0,Onboard,yes,,256.0,,Còn bảo hành,Đã sử dụng ,5500000.0
+5,Lenovo,ThinkPad,Intel,Core i7,Windows,,8.0,,,,256.0,,Bảo hành hãng,Đã sử dụng ,7990000.0
+6,Dell,Precision,Intel,Core i7,Windows,16.0,16.0,NVIDIA,yes,,512.0,Mỹ,1 tháng,Đã sử dụng ,12700000.0
+7,Lenovo,ThinkPad,,,Windows,,,,yes,,,,Còn bảo hành,Đã sử dụng ,6500000.0
+8,Dell,Latitude,Intel,Core i5,Windows,14.0,8.0,Onboard,,,256.0,Mỹ,3 tháng,Đã sử dụng ,6300000.0
+9,Apple,MacBook Air,Intel,Core i3,Windows,13.6,8.0,Khác,yes,,256.0,,7-12 tháng,Đã sử dụng ,10345000.0
+10,Dell,Inspiron,Ryzen,3,Windows,15.0,8.0,AMD,yes,,256.0,Việt Nam,3 tháng,Đã sử dụng ,6999999.0
+11,MSI,GF Series,Intel,Core i7,Windows,15.0,8.0,NVIDIA,yes,,512.0,Việt Nam,Bảo hành hãng,Đã sử dụng ,13900000.0
+12,Dell,Inspiron,,,Windows,,,,yes,,,,Còn bảo hành,Đã sử dụng ,10000000.0
+13,Acer,Swift,Intel,Core i5,Windows,14.0,8.0,NVIDIA,yes,,512.0,Mỹ,1 tháng,Đã sử dụng ,6700000.0
+14,Apple,MacBook Pro M2,Khác,,Windows,14.0,8.0,Onboard,,,256.0,,7-12 tháng,Mới,28400000.0
+15,Apple,MacBook Pro M1,Khác,,Windows,13.0,16.0,Khác,yes,,512.0,Việt Nam,4-6 tháng,Đã sử dụng ,32800000.0
+16,Dell,Precision,Intel,Core i7,Windows,16.0,8.0,NVIDIA,,,256.0,Mỹ,3 tháng,Đã sử dụng ,7000000.0
+17,Acer,Nitro 5,,,Windows,,,,,,,,Bảo hành hãng,Đã sử dụng ,10500000.0
+18,Acer,Nitro 5,,,Windows,,,,yes,,,,Còn bảo hành,Đã sử dụng ,14500000.0
+19,Dell,Vostro,Intel,Core i5,Windows,15.0,8.0,Khác,yes,,512.0,,Còn bảo hành,Đã sử dụng ,8300000.0
+20,HP,Pavilion,Intel,Core i5,Windows,13.6,8.0,Onboard,yes,yes,256.0,Việt Nam,3 tháng,Đã sử dụng ,6900000.0
+21,Apple,MacBook Air M1,Khác,,Windows,14.0,8.0,,,,256.0,,Bảo hành hãng,Đã sử dụng ,13900000.0
+22,HP,ZBook,Intel,Core i7,Windows,15.6,8.0,NVIDIA,yes,,128.0,Mỹ,3 tháng,Đã sử dụng ,4300000.0
+23,HP,ProBook,Intel,Core i5,Windows,14.0,8.0,Onboard,yes,,256.0,,3 tháng,Mới,2900000.0
+24,HP,Elitebook,,,Windows,,,,yes,,,,Còn bảo hành,Đã sử dụng ,5500000.0
+25,Dell,Latitude,Intel,Core i5,Windows,16.0,16.0,Onboard,yes,,256.0,Mỹ,3 tháng,Đã sử dụng ,6900000.0
+26,HP,Elitebook,Intel,Core i5,Windows,13.0,8.0,Onboard,yes,,256.0,Mỹ,3 tháng,Đã sử dụng ,4900000.0
+27,Apple,MacBook Air M2,Khác,,Windows,13.0,16.0,Onboard,yes,,256.0,Việt Nam,4-6 tháng,Đã sử dụng ,27500000.0
+28,Dell,Latitude,Intel,Core i7,Windows,14.0,8.0,Onboard,yes,,256.0,Mỹ,3 tháng,Đã sử dụng ,7900000.0
+29,Dell,Latitude,Intel,Core i5,Windows,12.5,8.0,Onboard,yes,,256.0,Mỹ,3 tháng,Đã sử dụng ,5900000.0
+30,HP,Elitebook,,,Windows,,,,yes,,,,Còn bảo hành,Đã sử dụng ,5500000.0
+31,Lenovo,ThinkPad,Intel,Core i7,Windows,13.0,16.0,Onboard,yes,,512.0,,Bảo hành hãng,Đã sử dụng ,10990000.0
+32,Samsung,Galaxyboook,Intel,Core i7,Windows,15.6,16.0,Onboard,yes,,1024.0,,Bảo hành hãng,Đã sử dụng ,21990000.0
+33,HP,Dòng Khác,Intel,Core i5,Windows,13.6,8.0,Onboard,,,256.0,,Bảo hành hãng,Đã sử dụng ,9990000.0
+34,Dell,Latitude,,,Windows,,,,yes,,,,Còn bảo hành,Đã sử dụng ,4000000.0
+35,Dell,Latitude,Intel,Core i5,Windows,13.6,8.0,Onboard,,,256.0,Mỹ,3 tháng,Đã sử dụng ,5000000.0
+36,Asus,X Series,Intel,Core i7,Windows,15.0,16.0,NVIDIA,yes,,512.0,Việt Nam,3 tháng,Đã sử dụng ,11999999.0
+37,Dell,Precision,Intel,Core i7,Windows,15.6,32.0,NVIDIA,yes,yes,128.0,Mỹ,3 tháng,Đã sử dụng ,10999999.0
+38,HP,Elitebook,Intel,Core i5,Windows,13.0,8.0,Onboard,,,256.0,Mỹ,3 tháng,Đã sử dụng ,4000000.0
+39,Microsoft,Surface Laptop Studio,Intel,Core i7,Windows,16.0,16.0,,,,512.0,Mỹ,3 tháng,Đã sử dụng ,11390000.0
+40,Dell,Precision,,,Windows,,,,,,,,Bảo hành hãng,Đã sử dụng ,10500000.0
+41,Dell,Latitude,Intel,Core i5,Windows,12.5,16.0,Onboard,yes,,256.0,Mỹ,Còn bảo hành,Đã sử dụng ,4550000.0
+42,Dell,Latitude,Intel,Core i7,Windows,15.0,16.0,NVIDIA,,,512.0,Mỹ,3 tháng,Đã sử dụng ,9500000.0
+43,HP,Elitebook,Intel,Core i5,Windows,13.6,4.0,Onboard,,yes,250.0,Mỹ,3 tháng,Đã sử dụng ,2000000.0
+44,Lenovo,ThinkPad,Intel,Core i7,Windows,15.0,16.0,Onboard,yes,,512.0,Mỹ,4-6 tháng,Đã sử dụng ,12500000.0
+45,Lenovo,ThinkPad,Intel,Core i5,Windows,14.0,8.0,Onboard,yes,,256.0,Mỹ,3 tháng,Đã sử dụng ,9800000.0
+46,Dell,Inspiron,Intel,Core i5,Windows,15.0,8.0,Onboard,yes,yes,1024.0,Mỹ,4-6 tháng,Đã sử dụng ,9500000.0
+47,Lenovo,ThinkPad,Intel,Core i5,Windows,15.6,8.0,Onboard,yes,,256.0,Mỹ,4-6 tháng,Đã sử dụng ,9800000.0
+48,Asus,TUF Gaming,Intel,Core i7,Windows,15.0,16.0,NVIDIA,yes,,512.0,Mỹ,4-6 tháng,Đã sử dụng ,23500000.0
+49,Asus,TUF Gaming,Ryzen,7,Windows,16.0,8.0,NVIDIA,yes,,512.0,Việt Nam,Hết bảo hành,Đã sử dụng ,11800000.0
+50,Asus,TUF Gaming,Intel,Core i7,Windows,16.0,16.0,NVIDIA,yes,,512.0,Mỹ,4-6 tháng,Đã sử dụng ,23500000.0
+51,Asus,TUF Gaming,Ryzen,7,Windows,15.0,8.0,NVIDIA,yes,,512.0,Việt Nam,Hết bảo hành,Đã sử dụng ,11800000.0
+52,Dell,Inspiron,Intel,Core i5,Windows,15.0,8.0,Onboard,yes,,256.0,Mỹ,7-12 tháng,Mới,14800000.0
+53,HP,Notebook,Intel,Core i5,Windows,15.6,8.0,Khác,yes,,256.0,,Còn bảo hành,Mới,3200000.0
+54,Apple,MacBook Air M2,Khác,,Windows,16.0,8.0,Onboard,yes,,256.0,,4-6 tháng,Đã sử dụng ,25500000.0
+55,HP,Notebook,Intel,Core i5,Windows,14.0,16.0,Onboard,,,512.0,Mỹ,3 tháng,Đã sử dụng ,9100000.0
+56,LG,Gram,Intel,Core i7,Windows,17.3,16.0,Onboard,yes,,512.0,Mỹ,4-6 tháng,Đã sử dụng ,18900000.0
+57,Apple,MacBook Pro M1,Khác,,Windows,15.6,16.0,Khác,yes,,512.0,,4-6 tháng,Đã sử dụng ,34800000.0
+58,Dell,Precision,Intel,Core i7,Windows,16.0,8.0,NVIDIA,yes,,128.0,Mỹ,3 tháng,Đã sử dụng ,3800000.0
+59,Dell,Latitude,Intel,Core i5,Windows,14.0,4.0,Onboard,,,128.0,,Còn bảo hành,Đã sử dụng ,5500000.0
+60,Asus,VivoBook S Series,Intel,Core i3,Windows,16.0,8.0,Onboard,yes,,256.0,Việt Nam,3 tháng,Đã sử dụng ,7500000.0
+61,HP,Elitebook,Intel,Core i5,Windows,15.0,8.0,Onboard,,,256.0,Mỹ,3 tháng,Đã sử dụng ,9800000.0
+62,Asus,X Series,Intel,Core i7,Windows,15.6,8.0,NVIDIA,yes,,512.0,Việt Nam,3 tháng,Đã sử dụng ,7900000.0
+63,Apple,MacBook,Khác,,Windows,12.5,8.0,Onboard,yes,,256.0,Việt Nam,4-6 tháng,Đã sử dụng ,9500000.0
+64,HP,Pavilion,Intel,Core i5,Windows,14.0,8.0,Onboard,yes,,256.0,Việt Nam,3 tháng,Đã sử dụng ,7900000.0
+65,Dell,Latitude,Intel,Core i5,Windows,13.0,8.0,Onboard,yes,,256.0,Nhật Bản,3 tháng,Đã sử dụng ,6900000.0
+66,Dell,Latitude,Intel,Core i5,Windows,13.6,8.0,Khác,yes,,256.0,,Còn bảo hành,Đã sử dụng ,8300000.0
+67,Dell,Inspiron,Intel,Core i7,Windows,17.3,16.0,NVIDIA,yes,,512.0,Mỹ,Bảo hành hãng,Đã sử dụng ,18500000.0
+68,Lenovo,ThinkPad,,,Windows,,,,yes,,,,Bảo hành hãng,Đã sử dụng ,5000000.0
+69,Apple,MacBook Pro,Khác,,Windows,15.0,16.0,Khác,yes,,1024.0,,4-6 tháng,Đã sử dụng ,37500000.0
+70,Apple,MacBook Pro M1 Touch Bar,Khác,,Windows,14.0,16.0,Onboard,yes,,512.0,Việt Nam,4-6 tháng,Đã sử dụng ,26500000.0
+71,HP,Elitebook,Intel,Core i5,Windows,12.5,8.0,Onboard,,,256.0,Mỹ,3 tháng,Đã sử dụng ,3900000.0
+72,Apple,MacBook Pro,Intel,Core i5,Windows,14.0,8.0,,yes,,128.0,,Bảo hành hãng,Đã sử dụng ,4500000.0
+73,Microsoft,Surface Book,Intel,Core i5,Windows,13.0,6.0,NVIDIA,yes,,512.0,Mỹ,4-6 tháng,Đã sử dụng ,8490000.0
+74,Microsoft,Surface Pro 6,Intel,Core i7,Windows,13.0,16.0,AMD,yes,,512.0,,4-6 tháng,Đã sử dụng ,10990000.0
+75,Microsoft,Surface Book 2,Intel,Core i7,Windows,13.6,16.0,NVIDIA,yes,,512.0,,4-6 tháng,Đã sử dụng ,9990000.0
+76,Dell,Inspiron,Intel,Core i7,Windows,17.3,16.0,NVIDIA,yes,yes,256.0,,Bảo hành hãng,Đã sử dụng ,11500000.0
+77,Dell,Inspiron,Intel,Core i7,Windows,17.3,16.0,NVIDIA,yes,,256.0,,Bảo hành hãng,Đã sử dụng ,11500000.0
+78,Dell,Inspiron,,,Windows,,,,yes,,,,Bảo hành hãng,Đã sử dụng ,10000000.0
+79,Dell,Latitude,Intel,Core i5,Windows,13.6,8.0,Onboard,,,256.0,Mỹ,3 tháng,Đã sử dụng ,5200000.0
+80,Microsoft,Surface,Intel,Core i7,Windows,13.0,16.0,Onboard,yes,,512.0,Mỹ,3 tháng,Đã sử dụng ,12500000.0
+81,HP,Elitebook,Intel,Core i5,Windows,14.0,8.0,Khác,yes,,128.0,,3 tháng,Mới,2600000.0
+82,Dell,XPS,Intel,Core i7,Windows,13.0,8.0,Onboard,,,256.0,Mỹ,3 tháng,Đã sử dụng ,9500000.0
+83,Apple,MacBook Pro,Intel,Core i5,Windows,,8.0,Khác,,,128.0,,4-6 tháng,Đã sử dụng ,8000000.0
+84,Dell,Latitude,Intel,Core i5,Windows,12.5,8.0,Onboard,,,256.0,Mỹ,3 tháng,Đã sử dụng ,4000000.0
+85,Apple,MacBook Air,Intel,Core i5,Windows,14.0,8.0,Khác,,,128.0,,Bảo hành hãng,Đã sử dụng ,4000000.0
+86,Apple,MacBook Air,Intel,Core i5,Windows,13.0,8.0,Onboard,yes,,128.0,Mỹ,3 tháng,Mới,8900000.0
+87,Apple,MacBook Pro,Intel,Core i5,Windows,12.5,8.0,Khác,,,256.0,Việt Nam,4-6 tháng,Đã sử dụng ,5000000.0
+88,Apple,MacBook Air,Intel,Core i5,Windows,14.0,4.0,Khác,,,128.0,,Bảo hành hãng,Đã sử dụng ,4000000.0
+89,Dell,Latitude,Intel,Core i5,Windows,14.0,8.0,Onboard,yes,,512.0,Mỹ,3 tháng,Đã sử dụng ,8500000.0
+90,Dell,Latitude,Intel,Core i5,Windows,13.6,8.0,Onboard,yes,,512.0,Mỹ,3 tháng,Đã sử dụng ,8500000.0
+91,Acer,Predator,,,Windows,,,,,,,,Bảo hành hãng,Đã sử dụng ,24000000.0
+92,Apple,MacBook Air,Intel,Core i5,Windows,14.0,8.0,Khác,,,128.0,,Bảo hành hãng,Đã sử dụng ,5000000.0
+93,HP,Dòng Khác,Intel,Core i3,Windows,14.0,4.0,Khác,,,500.0,Việt Nam,Hết bảo hành,Đã sử dụng ,4650000.0
+94,Apple,MacBook Pro,Intel,Core i5,Windows,12.5,8.0,Khác,,,256.0,Việt Nam,4-6 tháng,Đã sử dụng ,4000000.0
+95,Apple,MacBook Air,Intel,Core i5,Windows,12.5,8.0,Khác,yes,,512.0,Việt Nam,4-6 tháng,Đã sử dụng ,13000000.0
+96,Apple,MacBook Air,Intel,Core i5,Windows,14.0,8.0,Khác,,,128.0,,Bảo hành hãng,Đã sử dụng ,4000000.0
+97,Apple,MacBook Pro,Intel,Core i7,Windows,13.6,8.0,Khác,,,256.0,,4-6 tháng,Đã sử dụng ,4000000.0
+98,Apple,MacBook Air,Intel,Core i5,Windows,,8.0,Khác,,,128.0,,Bảo hành hãng,Đã sử dụng ,8000000.0
+99,Apple,MacBook Air,Intel,Core i3,Windows,12.5,8.0,Khác,,,256.0,Việt Nam,4-6 tháng,Đã sử dụng ,11000000.0
+100,Apple,MacBook Air,Intel,Core i5,Windows,12.5,8.0,Khác,,,256.0,Việt Nam,4-6 tháng,Đã sử dụng ,9000000.0
+101,Apple,MacBook Pro,Intel,Core i5,Windows,12.5,8.0,Khác,,,256.0,Việt Nam,4-6 tháng,Đã sử dụng ,10000000.0
+102,Apple,MacBook Air,Intel,Core i5,Windows,13.0,8.0,Khác,,,128.0,,Bảo hành hãng,Đã sử dụng ,9000000.0
+103,Apple,MacBook Pro,Intel,Core i5,Windows,12.5,8.0,Khác,,,128.0,Việt Nam,4-6 tháng,Đã sử dụng ,8000000.0
+104,Apple,MacBook Pro,Intel,Core i5,Windows,12.5,8.0,Khác,,,512.0,Việt Nam,4-6 tháng,Đã sử dụng ,12000000.0
+105,Apple,MacBook Air,Intel,Core i5,Windows,13.0,8.0,Khác,,,128.0,,Bảo hành hãng,Đã sử dụng ,8000000.0
+106,Apple,MacBook Pro,Intel,Core i5,Windows,12.5,8.0,Khác,,,256.0,Việt Nam,4-6 tháng,Đã sử dụng ,6000000.0
+107,Lenovo,IdeaPad,Intel,Core i5,Windows,15.0,16.0,Khác,yes,,250.0,Mỹ,Còn bảo hành,Đã sử dụng ,4590000.0
+108,Dell,Inspiron,Intel,Core i7,Windows,15.0,8.0,NVIDIA,,yes,128.0,Mỹ,3 tháng,Đã sử dụng ,8400000.0
+109,HP,Elitebook,Intel,Core i7,Windows,12.5,8.0,Onboard,,,128.0,,3 tháng,Đã sử dụng ,5900000.0
+110,Dell,Inspiron,Intel,Core i7,Windows,16.0,8.0,NVIDIA,,yes,128.0,Mỹ,3 tháng,Đã sử dụng ,8400000.0
+111,HP,Elitebook,Intel,Core i7,Windows,12.5,8.0,Onboard,,,128.0,,3 tháng,Đã sử dụng ,5900000.0
+112,Asus,ROG Strix Scar,Ryzen,7,Windows,15.0,8.0,NVIDIA,yes,,512.0,Việt Nam,2 tháng,Đã sử dụng ,16500000.0
+113,Dell,Latitude,Intel,Core i5,Windows,,8.0,,yes,,256.0,,Còn bảo hành,Đã sử dụng ,6900000.0
+114,Asus,TUF Gaming,Intel,Core i5,Windows,,8.0,Khác,,,500.0,,4-6 tháng,Đã sử dụng ,11200000.0
+115,Dell,Inspiron,Intel,Core i5,Windows,15.0,8.0,AMD,yes,,256.0,,3 tháng,Đã sử dụng ,7200000.0
+116,HP,Pavilion,Intel,Core i3,Windows,14.0,,Onboard,yes,,512.0,,7-12 tháng,Đã sử dụng ,8500000.0
+117,Dell,Latitude,Intel,Core i7,Windows,13.6,8.0,Onboard,yes,,256.0,,Còn bảo hành,Đã sử dụng ,5400000.0
+118,Dell,Latitude,Intel,Core i5,Windows,13.6,8.0,Onboard,yes,,256.0,Mỹ,1 tháng,Đã sử dụng ,4300000.0
+119,Apple,MacBook Air,Intel,Core i5,Windows,13.6,4.0,Onboard,yes,,128.0,,Còn bảo hành,Đã sử dụng ,7000000.0
+120,Dell,Precision,Intel,Core i7,Windows,15.0,16.0,NVIDIA,,,256.0,Mỹ,3 tháng,Đã sử dụng ,9200000.0
+121,Asus,X Series,Intel,Core i5,Windows,16.0,8.0,Onboard,yes,,512.0,,3 tháng,Đã sử dụng ,8500000.0
+122,MSI,Modern Series,Ryzen,5,Windows,13.0,8.0,AMD,yes,,512.0,,3 tháng,Đã sử dụng ,9500000.0
+123,Lenovo,IdeaPad,Ryzen,5,Windows,15.0,16.0,NVIDIA,yes,,512.0,,Còn bảo hành,Mới,18900000.0
+124,Asus,X Series,,,Windows,,,,yes,,,,Bảo hành hãng,Đã sử dụng ,12000000.0
+125,Apple,MacBook Air,,,Windows,,,,yes,,,,Bảo hành hãng,Đã sử dụng ,6690000.0
+126,Asus,ROG Strix Scar,Ryzen,7,Windows,16.0,8.0,NVIDIA,yes,,512.0,Đài Loan,Còn bảo hành,Đã sử dụng ,16490000.0
+127,Dell,Latitude,Intel,Core i7,Windows,13.0,8.0,Onboard,yes,,256.0,,Còn bảo hành,Đã sử dụng ,5900000.0
+128,Dell,Latitude,Intel,Core i5,Windows,15.6,8.0,Onboard,,,128.0,Mỹ,3 tháng,Đã sử dụng ,3300000.0
+129,HP,ZBook,,,Windows,,,,,,,,Bảo hành hãng,Đã sử dụng ,21900000.0
